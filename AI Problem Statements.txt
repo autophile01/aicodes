@@ -1,0 +1,38 @@
+import requests
+
+print(requests.get("https://raw.githubusercontent.com/ishan-kshirsagar0-7/lp2codes/master/{program_name}.py").text)
+
+
+
+Assignment to be prepared for AI practical
+
+1) DFS BFS search
+
+2.1) A* search algorithm for tic tac toe game
+
+2.2) A* search algorithm to find optimal path for given graph
+
+2.3) A* algorithm for solving 8 tiles puzzle
+
+3) Implement Greedy search algorithm for any of the following application:
+I. Selection Sort
+II. Minimum Spanning Tree - 1. Prim's Minimal Spanning Tree Algorithm
+                            2. Kruskal's Minimal Spanning Tree Algorithm
+
+III. Single-Source Shortest Path Problem - 1. Dijkstra's Minimal Spanning Tree Algorithm
+IV. Job Scheduling Problem
+ V. Uniform Cost Search
+
+
+4.1)Implement a solution for a Constraint Satisfaction Problem using Branch and Bound and 
+Backtracking for n-queens problem 
+    -Implement a solution for a Constraint Satisfaction Problem using Branch and Bound for n-queens problem
+    -Implement a solution for a Constraint Satisfaction Problem using backtracking for n-queens problem
+
+4.2) Implement a solution for a Constraint Satisfaction Problem using Branch and Bound and 
+Backtracking for a graph coloring problem.
+    -Implement a solution for a Constraint Satisfaction Problem using Branch and Bound for graph colouring problem problem
+    -Implement a solution for a Constraint Satisfaction Problem using backtracking for graph colouring problem problem
+
+5) Elementary chatbot for any suitable customer interaction application (e.g. chat bot for jio mart, chat bot for redbus application)
+
